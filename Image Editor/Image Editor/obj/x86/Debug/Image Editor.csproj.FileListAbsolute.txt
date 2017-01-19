@@ -1,0 +1,24 @@
+C:\Users\Hassan Saleem\AppData\Local\Temporary Projects\Image Editor\bin\Debug\Image Editor.exe
+C:\Users\Hassan Saleem\AppData\Local\Temporary Projects\Image Editor\bin\Debug\Image Editor.pdb
+C:\Users\Hassan Saleem\AppData\Local\Temporary Projects\Image Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hassan Saleem\AppData\Local\Temporary Projects\Image Editor\obj\x86\Debug\Image_Editor.Form1.resources
+C:\Users\Hassan Saleem\AppData\Local\Temporary Projects\Image Editor\obj\x86\Debug\Image_Editor.Properties.Resources.resources
+C:\Users\Hassan Saleem\AppData\Local\Temporary Projects\Image Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hassan Saleem\AppData\Local\Temporary Projects\Image Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hassan Saleem\AppData\Local\Temporary Projects\Image Editor\obj\x86\Debug\Image Editor.exe
+C:\Users\Hassan Saleem\AppData\Local\Temporary Projects\Image Editor\obj\x86\Debug\Image Editor.pdb
+C:\Users\Hassan Saleem\documents\visual studio 2010\Projects\Image Editor\Image Editor\obj\x86\Debug\Image Editor.exe
+C:\Users\Hassan Saleem\documents\visual studio 2010\Projects\Image Editor\Image Editor\obj\x86\Debug\Image Editor.pdb
+C:\Users\Hassan Saleem\documents\visual studio 2010\Projects\Image Editor\Image Editor\bin\Debug\Image Editor.exe
+C:\Users\Hassan Saleem\documents\visual studio 2010\Projects\Image Editor\Image Editor\bin\Debug\Image Editor.pdb
+C:\Users\Hassan Saleem\documents\visual studio 2010\Projects\Image Editor\Image Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hassan Saleem\documents\visual studio 2010\Projects\Image Editor\Image Editor\obj\x86\Debug\Image_Editor.Properties.Resources.resources
+C:\Users\Hassan Saleem\documents\visual studio 2010\Projects\Image Editor\Image Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Hassan Saleem\documents\visual studio 2010\Projects\Image Editor\Image Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Hassan Saleem\documents\visual studio 2010\Projects\Image Editor\Image Editor\bin\Debug\Image Editor.exe.manifest
+C:\Users\Hassan Saleem\documents\visual studio 2010\Projects\Image Editor\Image Editor\bin\Debug\Image Editor.application
+C:\Users\Hassan Saleem\documents\visual studio 2010\Projects\Image Editor\Image Editor\obj\x86\Debug\Image Editor.exe.manifest
+C:\Users\Hassan Saleem\documents\visual studio 2010\Projects\Image Editor\Image Editor\obj\x86\Debug\Image Editor.application
+C:\Users\Hassan Saleem\documents\visual studio 2010\Projects\Image Editor\Image Editor\obj\x86\Debug\Image_Editor.Form1.resources
+E:\HASSAN\Developed Softwares\Image Editor\Image Editor\Image Editor\obj\x86\Debug\Image Editor.exe
+E:\HASSAN\Developed Softwares\Image Editor\Image Editor\Image Editor\obj\x86\Debug\Image Editor.pdb
